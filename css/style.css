@@ -9679,3 +9679,13 @@ textarea.form-control {
   100% {
     stroke-dasharray: 89, 200;
     stroke-dashoffset: -136px; } }
+
+
+    a.mb-0 {
+      background: #ffbd39;
+      border: 1px solid #ffbd39 !important;
+      color: #000000 !important;
+      border-radius: 10px;
+      z-index: 50;
+      cursor: pointer;
+    }
